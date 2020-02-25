@@ -2,5 +2,5 @@ node_modules/
 elm-stuff/
 dist/
 .cache/
-generator/src/Main.js
+# generator/src/Main.js
 elm-pages-*.tgz
